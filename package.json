@@ -17,7 +17,7 @@
   "main": "lib/mongoosastic.js",
   "dependencies": {
     "elasticsearch": "15.0.0",
-    "lodash.clonedeep": "5.1.4"
+    "lodash.clonedeep": "4.5.0"
   },
   "devDependencies": {
     "async": "2.1.4",
@@ -30,7 +30,7 @@
     "eslint-plugin-standard": "2.0.1",
     "istanbul": "0.4.5",
     "mocha": "3.2.0",
-    "mongoose": "4.7.6",
+    "mongoose": "5.1.4",
     "should": "11.1.2",
     "standard": "8.6.0"
   },
