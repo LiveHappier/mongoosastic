@@ -2,7 +2,7 @@
   "author": "James R. Carr <james.r.carr@gmail.com> (http://blog.james-carr.org)",
   "name": "mongoosastic",
   "description": "A mongoose plugin that indexes models into elastic search",
-  "version": "4.2.4",
+  "version": "6.0.0",
   "tags": [
     "mongodb",
     "elasticsearch",
@@ -16,8 +16,8 @@
   },
   "main": "lib/mongoosastic.js",
   "dependencies": {
-    "elasticsearch": "12.1.3",
-    "lodash.clonedeep": "4.5.0"
+    "elasticsearch": "15.0.0",
+    "lodash.clonedeep": "5.1.4"
   },
   "devDependencies": {
     "async": "2.1.4",
